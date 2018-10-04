@@ -1,7 +1,7 @@
 # pwaPrep
 intro to PWAs
 
-# future goals
+##future goals
 Add:
   - push notifications
   - camera access
